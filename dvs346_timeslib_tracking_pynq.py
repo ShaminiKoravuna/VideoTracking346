@@ -1,8 +1,6 @@
 '''
 DVS346 Tracking using CAMShift for Pynq using DVSAbsLib library and Time Sections library.
 
-Author: Guillermo J. Fernández Caballero
-Email : guillermofdez98@gmail.com
 '''
 import sys
 print("Python executable being used:", sys.executable)
